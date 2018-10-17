@@ -1,10 +1,10 @@
 {
-  "name": "grammar-selector",
-  "version": "0.50.1",
+  "name": "legesher-language-selector",
+  "version": "0.0.1",
   "main": "./lib/main",
-  "description": "Select the grammar to use for the current editor with `ctrl-shift-L`.",
+  "description": "Select the language to use for the current editor with `ctrl-alt-T`.",
   "license": "MIT",
-  "repository": "https://github.com/atom/grammar-selector",
+  "repository": "https://github.com/madiedgar/legesher-language-selector",
   "engines": {
     "atom": "*"
   },

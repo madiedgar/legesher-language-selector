@@ -1,0 +1,13 @@
+'menu': [
+  'label': 'Edit'
+  'submenu': [
+    'label': 'Select Language'
+    'command': 'language-selector:show'
+  ]
+]
+
+'context-menu':
+  '.overlayer': [
+    'label': 'Change Language'
+    'command': 'language-selector:show'
+  ]
