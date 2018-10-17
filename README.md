@@ -1,6 +1,6 @@
 # Grammar Selector package
-[![OS X Build Status](https://travis-ci.org/atom/grammar-selector.svg?branch=master)](https://travis-ci.org/atom/grammar-selector)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/pg8qss03bfh4ngqm/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/grammar-selector/branch/master) [![Dependency Status](https://david-dm.org/atom/grammar-selector.svg)](https://david-dm.org/atom/grammar-selector)
+[![OS X Build Status](https://travis-ci.org/atom/legesher-language-selector.svg?branch=master)](https://travis-ci.org/atom/legesher-language-selector)
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/pg8qss03bfh4ngqm/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/legesher-language-selector/branch/master) [![Dependency Status](https://david-dm.org/atom/legesher-language-selector.svg)](https://david-dm.org/atom/legesher-language-selector)
 
 Pick the grammar used for syntax highlighting using <kbd>ctrl-shift-L</kbd> or by clicking the current grammar name in the status bar.
 
